@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html#objetivo",
+    "href": "index.html#objetivo",
+    "title": "Consumo eléctrico en vivienda y edificios de la APF",
+    "section": "Objetivo",
+    "text": "Objetivo\n  \nCalcular el consumo energético eléctrico mensual de vivienda y edificios de la APF con los datos existentes."
+  },
+  {
+    "objectID": "index.html#datos-de-vivienda",
+    "href": "index.html#datos-de-vivienda",
+    "title": "Consumo eléctrico en vivienda y edificios de la APF",
+    "section": "Datos de vivienda",
+    "text": "Datos de vivienda\n\nEstudio del subsidio Hernández y Patiño, 2022\nBasado en ENCEVI y ENIGH 2018\n\nPersonas\nHogares\nMateriales de vivienda\nFactor de expansión de vivienda\n\nTarifas de CFE"
+  },
+  {
+    "objectID": "index.html#desagregación",
+    "href": "index.html#desagregación",
+    "title": "Consumo eléctrico en vivienda y edificios de la APF",
+    "section": "Desagregación",
+    "text": "Desagregación\n\nTipología \\(m^2\\)\nUso y no uso de aire acondicionado\nClima (3 INEGI)\nEstrato socioeconómico\nRegión (nacional, estado)"
+  },
+  {
+    "objectID": "index.html#datos-de-edificaciones-de-la-apf",
+    "href": "index.html#datos-de-edificaciones-de-la-apf",
+    "title": "Consumo eléctrico en vivienda y edificios de la APF",
+    "section": "Datos de edificaciones de la APF",
+    "text": "Datos de edificaciones de la APF\n\nDatos CONUEE\nUbicación geográfica (clima)\nUso o no uso de aire acondicionado\nClasificación de uso (13 categorías)\nÁrea total"
+  },
+  {
+    "objectID": "index.html#análisis-para-vivienda",
+    "href": "index.html#análisis-para-vivienda",
+    "title": "Consumo eléctrico en vivienda y edificios de la APF",
+    "section": "Análisis para vivienda",
+    "text": "Análisis para vivienda\n\nConsumo eléctrico mensual en \\(kWh\\)\nCuartiles 25, 50 y 75\nDesagregación\n\nTipología\nUso y no uso de aire acondicionado\nClima\nEstrato socioeconómico"
+  },
+  {
+    "objectID": "index.html#análisis-para-edificios-de-la-apf",
+    "href": "index.html#análisis-para-edificios-de-la-apf",
+    "title": "Consumo eléctrico en vivienda y edificios de la APF",
+    "section": "Análisis para edificios de la APF",
+    "text": "Análisis para edificios de la APF\n\nConsumo eléctrico mensual en \\(kWh/m2\\)\nQuartiles 25, 50 y 75\nDesagregación\n\nBioclima\nUso y no uso de aire acondicionado\nClasificación de uso"
+  },
+  {
+    "objectID": "index.html#resultados",
+    "href": "index.html#resultados",
+    "title": "Consumo eléctrico en vivienda y edificios de la APF",
+    "section": "Resultados",
+    "text": "Resultados\n\n\nMuchas tablas y muchas figuritas"
+  },
+  {
+    "objectID": "index.html#tablas-vivienda-sin-aire-acondicionado-cálido-extremoso",
+    "href": "index.html#tablas-vivienda-sin-aire-acondicionado-cálido-extremoso",
+    "title": "Consumo eléctrico en vivienda y edificios de la APF",
+    "section": "Tablas vivienda, sin aire acondicionado, cálido extremoso",
+    "text": "Tablas vivienda, sin aire acondicionado, cálido extremoso\n\n\n\nTabla 1: Consumo total mensual (kWh) para clima Cálido extremoso, estrato socioeconómico Bajo\n\n\n\n\n\nm²\nP25\nMediana\nMedia\nP75\n%Viviendas\n\n\n\n\n30\n31.51\n59.44\n109.61\n176.09\n0.17\n\n\n55\n31.78\n50.42\n60.75\n77.65\n0.24\n\n\n75\n32.49\n55.04\n76.37\n97.51\n0.21\n\n\n100\n51.64\n78.07\n78.24\n92.06\n0.2\n\n\n150\n50.23\n82.14\n89.46\n114.49\n0.09\n\n\n200\n30.94\n55.08\n151.74\n289.86\n0.05"
+  },
+  {
+    "objectID": "index.html#figuras-para-vivienda",
+    "href": "index.html#figuras-para-vivienda",
+    "title": "Consumo eléctrico en vivienda y edificios de la APF",
+    "section": "Figuras para vivienda",
+    "text": "Figuras para vivienda"
+  },
+  {
+    "objectID": "index.html#figuras-para-edificios-de-la-apf",
+    "href": "index.html#figuras-para-edificios-de-la-apf",
+    "title": "Consumo eléctrico en vivienda y edificios de la APF",
+    "section": "Figuras para edificios de la APF",
+    "text": "Figuras para edificios de la APF"
+  },
+  {
+    "objectID": "index.html#referencia",
+    "href": "index.html#referencia",
+    "title": "Consumo eléctrico en vivienda y edificios de la APF",
+    "section": "Referencia",
+    "text": "Referencia\nHernandez, M., & Patino-Echeverri, D. (2022). Electricity consumption, subsidies, and policy inequalities in Mexico: Data from 100,000 households. Energy for Sustainable Development, 71, 186–199.\nCódigo R disponible en: github.com/h2mauricio/mexico-residential-electricity\nDatos disponibles en: research.repository.duke.edu"
+  }
+]
